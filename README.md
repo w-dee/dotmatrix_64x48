@@ -6,7 +6,7 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 # 傘下プロジェクト
  * Hardware 3.0 series - [https://github.com/w-dee/dotmatrix_64x48_hw_3.0](https://github.com/w-dee/dotmatrix_64x48_hw_3.0)
  * Hardware 3.5 series - TBD
- * Firmware (for both 3.0 and 3.5 series) - TBD
+ * Firmware (for both 3.0 and 3.5 series) - [https://github.com/w-dee/dotmatrix_64x48_fw](https://github.com/w-dee/dotmatrix_64x48_fw)
 
 
 # HW production-rev.1 情報
