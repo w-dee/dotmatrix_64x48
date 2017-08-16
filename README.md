@@ -4,7 +4,7 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 ここはマゾ時計3のポータルです。
 
 # 傘下プロジェクト
- * Hardware 3.0 series - https://github.com/w-dee/dotmatrix_64x48_hw_3.0
+ * Hardware 3.0 series - [https://github.com/w-dee/dotmatrix_64x48_hw_3.0](https://github.com/w-dee/dotmatrix_64x48_hw_3.0)
  * Hardware 3.5 series - TBD
  * Firmware (for both 3.0 and 3.5 series) - TBD
 
@@ -17,8 +17,8 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 
 異なる複数のハードウェアリビジョンや、それらに共通するファームウェアを管理するために、プロジェクトの構造を変えました。詳しくは上の「傘下プロジェクト」を参照してください。
 
- * それに伴い、回路図はこちらに移動してあります - https://github.com/w-dee/dotmatrix_64x48_hw_3.0/raw/production-rev1/hardware/dotmatrix_64x48.pdf
- * その他の回路図データー、ガーバーなどはこちらへ https://github.com/w-dee/dotmatrix_64x48_hw_3.0/tree/production-rev1/hardware
+ * それに伴い、回路図はこちらに移動してあります - [https://github.com/w-dee/dotmatrix_64x48_hw_3.0/raw/production-rev1/hardware/dotmatrix_64x48.pdf](https://github.com/w-dee/dotmatrix_64x48_hw_3.0/raw/production-rev1/hardware/dotmatrix_64x48.pdf)
+ * その他の回路図データー、ガーバーなどはこちらへ [https://github.com/w-dee/dotmatrix_64x48_hw_3.0/tree/production-rev1/hardware](https://github.com/w-dee/dotmatrix_64x48_hw_3.0/tree/production-rev1/hardware)
 
 
 ## 重大なプリント基板のミスについて
