@@ -42,7 +42,7 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 
 ファイルは [https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares](https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares) とかにおいてあります。
 
-ちなみに、ウェブブラウザーからアップロードできる形式のファームウェアのバイナリーは、上記の firmware.bin と FS.spiffs を特殊な方式でつなぎあわせたもので、combine_rom.bin というファイル名になっています。これはウェブブラウザーからのアップロード専用の形式で、ここで説明するシリアル経由での書き込みでは使えません。
+ちなみに、ウェブブラウザーからアップロードできる形式のファームウェアのバイナリーは、上記の firmware.bin と FS.spiffs を特殊な方式でつなぎあわせたもので、combined_rom.bin というファイル名になっています。これはウェブブラウザーからのアップロード専用の形式で、ここで説明するシリアル経由での書き込みでは使えません。
 
 ### 書き込み用プログラムについて
 
