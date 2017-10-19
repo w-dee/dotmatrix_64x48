@@ -10,7 +10,7 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 
 # News
 
-WiFiの認証に関わる一連の脆弱性(CRACK)を修正するファームウェアを公開しました。[https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares/20171019](https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares/20171019) より combined_rom.bin をダウンロードし、マゾ時計のWeb画面のFirmware upgradeにこのファイルを指定して"Update"ボタンを押してください。アップデートには1分ほどかかります。その間ブラウザは画面遷移しないまま応答がないかのようになってしまいますが、何もせずに待ち続けてください。
+WiFiの認証に関わる一連の脆弱性(KRACK)を修正するファームウェアを公開しました。[https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares/20171019](https://github.com/w-dee/dotmatrix_64x48/tree/master/firmwares/20171019) より combined_rom.bin をダウンロードし、マゾ時計のWeb画面のFirmware upgradeにこのファイルを指定して"Update"ボタンを押してください。アップデートには1分ほどかかります。その間ブラウザは画面遷移しないまま応答がないかのようになってしまいますが、何もせずに待ち続けてください。
 
 # HW production-rev.1 情報
 
