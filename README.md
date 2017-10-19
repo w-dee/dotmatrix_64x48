@@ -27,6 +27,15 @@ Portal for WiFi NTP Dot Matrix Clock (as known as MazoClock3)
 <img src="Screenshot from 2017-08-16 11-36-40.jpg" alt="HW3.0 producton-rev.1 errata-1">
 <img src="Screenshot from 2017-08-16 11-37-07.png" alt="HW3.0 producton-rev.1 errata-2">
 
+## プライバシーセパレーターについて
+
+WiFi APに接続されている機材同士が直接通信できないようにする仕組みを導入しているWiFi APが存在します。
+たとえば
+
+ * Buffalo - [無線パソコン同士の通信を禁止する（プライバシーセパレータ）](http://buffalo.jp/download/manual/html/air851/router/whrg54s/chapter11.html)
+
+このようなAPだと、マゾ時計上のWebインターフェースに、他のPCなどからアクセスできないことがありますので、この機能を切ってご使用ください。
+
 ## ファームウェアのシリアル経由での書き込みについて
 
 ファームウェアをどうしてもシリアル経由で(つまり、ウェブブラウザーからのアップロードではなく)行わなければならない場合の手順です。
